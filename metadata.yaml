@@ -1,5 +1,8 @@
 _repo: William-Tyndale_70856
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 70856-h/images/cover.jpg
 creator:
   author:
     agent_name: Ellis, James J. (James Joseph)
@@ -9,6 +12,8 @@ creator:
     gutenberg_agent_id: '55959'
     url: http://www.gutenberg.org/2009/agents/55959
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/70856#William-Tyndale
 gutenberg_issued: '2023-05-25'
 identifiers:
   gutenberg: '70856'
